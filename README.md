@@ -1,2 +1,12 @@
-# python_instacart_project
-CareerFoundry project analyzing instacart data via Python
+# Python Instacart Project
+CareerFoundry project analyzing instacart data via Python.
+
+## Files
+
+Python_Project_Brief
+
+Final Report
+
+Scripts (11)
+
+Visuals (15)
