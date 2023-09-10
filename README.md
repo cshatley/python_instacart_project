@@ -3,7 +3,7 @@ CareerFoundry project analyzing instacart data via Python.
 
 ## Files
 
-Python_Project_Brief
+Instacart_Project_Brief
 
 Final Report
 
