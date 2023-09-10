@@ -1,12 +1,20 @@
 # Python Instacart Project
-CareerFoundry project analyzing instacart data via Python.
 
-## Files
+## Objective
+Use exploratory analysis to uncover patterns in customer orders from Instacart data.
+
+### Data Provided
+Excel spreadsheets of unclean data associated with products, orders, customers, and departments.
+
+### Deliverable
+Excel spreadsheet containing visuals generated in Python and answers to stakeholder questions found in the Project Brief.
+
+### Github Files
 
 Instacart_Project_Brief
 
 Final Report
 
-Scripts (11)
+Scripts (11 files)
 
-Visuals (15)
+Visuals (15 files)
