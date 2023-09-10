@@ -1,9 +1,9 @@
 # Python Instacart Project
 
-## Objective
+### Objective
 Use exploratory analysis to uncover patterns in customer orders from Instacart data.
 
-### Data Provided
+### Provided Data
 Excel spreadsheets of unclean data associated with products, orders, customers, and departments.
 
 ### Deliverable
