@@ -1,4 +1,4 @@
-# Python Instacart Project
+# Instacart Project
 
 ### Objective
 Use exploratory analysis to uncover patterns in customer orders from Instacart data.
