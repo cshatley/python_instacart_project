@@ -9,7 +9,7 @@ Excel spreadsheets of unclean data associated with products, orders, customers, 
 ### Deliverable
 Excel spreadsheet containing visuals generated in Python and answers to stakeholder questions found in the Project Brief.
 
-### Github Files
+### Files
 
 Instacart_Project_Brief
 
