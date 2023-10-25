@@ -13,6 +13,8 @@ Excel spreadsheet containing visuals generated in Python and answers to stakehol
 
 Instacart_Project_Brief
 
+Project Portfolio (starting slide 20)
+
 Final Report
 
 Scripts (11 files)
